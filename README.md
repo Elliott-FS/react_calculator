@@ -1,3 +1,12 @@
+# React calculator App
+# Review, refactor, add features, change styles
+# Review useReducer
+# Add light/dark mode
+# Change styling color scheme
+# Animated Background?
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
