@@ -4,6 +4,7 @@
 # Add light/dark mode
 # Change styling color scheme
 # Animated Background?
+# Possible reset for re-run
 
 
 
